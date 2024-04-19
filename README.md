@@ -1,6 +1,7 @@
 ![InstallForge Logo](https://installforge.net/themes/InstallForge/images/iflogotext.png)
 
-This repository serves as the official issue tracking place for [InstallForge](https://installforge.net).
+> [!NOTE]  
+> This repository serves as the official issue tracking place for [InstallForge](https://installforge.net).
 
 ### Introduction
 
