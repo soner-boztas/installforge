@@ -53,3 +53,5 @@ https://docs.installforge.net/license/
 
 `TL;DR`
 InstallForge is free of charge; even within a commercial context. However, it is not FOSS. The source code is proprietary.
+
+**Note:** While InstallForge is free for both personal and commercial use, Visual Update (which is a built-in module) is only available through a paid license in a commercial context. For more details, refer to the Visual Update EULA: https://docs.visualupdate.net/license/
