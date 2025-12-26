@@ -3,6 +3,9 @@
 > [!NOTE]  
 > This repository serves as the official issue tracking place for [InstallForge](https://installforge.net).
 
+> [!TIP]
+> Since 2007, InstallForge has been trusted by more than 30,000 developers and companies worldwide!
+
 ### Introduction
 
 If you are looking for an efficient and free installation creator, you have just found it. Get rid of script based or other complex and time-consuming installation creators and let InstallForge demonstrate you its performance and unbelievable easiness.
